@@ -1,2 +1,2 @@
 def suma_2(numero):
-    return numero + 3
+    return numero + 2
